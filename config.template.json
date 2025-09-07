@@ -1,0 +1,13 @@
+{
+  "MeanPopulationSize": 1000.0,
+  "StdDevPopulationSize": 100.0,
+  "LocationCount": 10,
+  "DiseaseSpreadChance": 0.3,
+  "DeathChance": 0.01,
+  "DiseaseDuration": 14,
+  "QuarantineDuration": 10,
+  "MeanQuarantineChance": 0.7,
+  "StdDevQuarantineChance": 0.1,
+  "SimulationDuration": 100,
+  "TravelChance": 0.05
+}
